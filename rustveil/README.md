@@ -1,2 +1,2 @@
-# Tauri + SvelteKit 
-a secret testing project
+# Tauri + SvelteKit + TypeScript
+a stupid project for social network analysis
